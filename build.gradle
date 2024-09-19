@@ -147,7 +147,7 @@ dependencies {
     implementation "com.github.angeschossen:ChestProtectAPI:3.9.1"
     implementation "com.github.TechFortress:GriefPrevention:16.18.1"
     implementation 'xyz.xenondevs:particle:1.8.1'
-    compileOnly 'com.griefdefender:api:2.1.0-SNAPSHOT'
+    compileOnly 'com.griefdefender:api:2.1.1-SNAPSHOT'
 
     // Dynamically Loaded
     compileOnly 'com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru:1.4.2'
