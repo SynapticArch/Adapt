@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — de_DE
 #
 # === Datei bearbeiten ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin}: Deine Sprache folgt jetzt dem Serverstandar
 
 [language.editor]
 loading = "Nachrichten für {locale} werden geladen..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "Sprachen"

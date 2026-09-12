@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — tr_TR
 #
 # === Dosyayı düzenleme ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin}: diliniz artık sunucunun varsayılan dilini
 
 [language.editor]
 loading = "{locale} mesajları yükleniyor..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "Diller"

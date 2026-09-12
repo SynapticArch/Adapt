@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — ru_RU
 #
 # === Редактирование файла ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin}: теперь ваш язык соответ
 
 [language.editor]
 loading = "Загрузка сообщений для {locale}..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "Языки"

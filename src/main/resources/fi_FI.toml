@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — fi_FI
 #
 # === Tiedoston muokkaus ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin}: kielesi noudattaa nyt palvelimen oletuskiel
 
 [language.editor]
 loading = "Ladataan kielen {locale} viestejä..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "Kielet"

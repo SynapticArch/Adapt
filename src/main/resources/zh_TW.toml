@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — zh_TW
 #
 # === 編輯檔案 ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin}：你的語言現在跟隨伺服器預設語
 
 [language.editor]
 loading = "正在載入 {locale} 的訊息..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "語言"

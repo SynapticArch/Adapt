@@ -1,4 +1,3 @@
-"language.editor.title" = "{plugin} › {section}"
 # Adapt — fr_FR
 #
 # === Modifier le fichier ===
@@ -6534,7 +6533,7 @@ server-default-selected = "{plugin} : votre langue suit désormais la langue par
 
 [language.editor]
 loading = "Chargement des messages en {locale}..."
-title = "{plugin} / {section}"
+title = "{plugin} › {section}"
 
 [language.editor.section]
 languages = "Langues"
